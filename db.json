@@ -2,19 +2,19 @@
   "diningtable": [
     {
       "id": 1,  
-      "Name":"Studio Dining Table(160cm)",
+      "Name":"Studio Dining Table",
       "Price": "$599",
       "Stock": 60
     },
     {
       "id": 2,
-      "Name":"Studio Dining Table(160cm)",
+      "Name":"Studio Dining Table",
       "Price": "$599",
       "Stock": 60
     },
     {
       "id": 3, 
-      "Name":"Studio Dining Table(160cm)",
+      "Name":"Studio Dining Table",
       "Price": "$599",
       "Stock": 60
     }
