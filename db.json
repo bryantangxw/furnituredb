@@ -2,21 +2,27 @@
   "jobs": [
     {
       "id": 1,
+      "image" :"https://cdn.shopify.com/s/files/1/0298/1577/products/Studio-Dining-Table_large.jpg?v=1508054716",
       "Name": "Dining Table Bitch",
       "Description": "Build a simple e commerce website",
-      "Price": "$400"
+      "Price": "$400",
+      "Stock": 60
     },
     {
       "id": 2,
       "Name": "Fuck This Shit",
+      "image" :"https://cdn.shopify.com/s/files/1/0298/1577/products/Studio-Dining-Table_large.jpg?v=1508054716",
       "Description": "Collect data from PDF and enter to Excel sheet",
-      "Price": "$150"
+      "Price": "$150",
+      "Stock": 60
     },
     {
       "id": 3,
       "Name": "GG",
+      "image" :"https://cdn.shopify.com/s/files/1/0298/1577/products/Studio-Dining-Table_large.jpg?v=1508054716",
       "Description": "Logo design for clothing brand",
-      "Price": "$230"
+      "Price": "$230",
+      "Stock": 60
     }
   ]
 }
